@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '辨癲癇狂（1846 年卷末署記，京都大學 ヘ/27） / Bentenkankyō [Distinguishing dian, xian, and
   kuang]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

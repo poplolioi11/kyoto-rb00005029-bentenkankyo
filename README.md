@@ -4,11 +4,11 @@
 
 Bentenkankyō is an 1846-dated Literary Chinese study of dian, xian, and kuang by Mori (森直方), preserved in Kyoto University’s Fujikawa Collection (ヘ/27). It compares earlier medical usage and descriptions of episodes and discusses historical medical opinions and named prescriptions. The witness supports research into nineteenth-century Japanese readings of Chinese medical texts and historical vocabularies of mental disturbance.
 
-## V0.1.0
+## V0.2.0
 
-9 幅全部編目。第 4–8 幅共八面正文，含卷末款署。藏印、細字、朱點與未定讀法另分層記錄。本版為 AI 輔助初錄，困難字及蟲蝕處留待覆核。
+9 幅全部編目。第 4–8 幅共八面正文，含卷末款署。藏印、細字、朱點與未定讀法另分層記錄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 12 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All nine scans are indexed. Eight written faces in scans 4–8 include the dated colophon. Ownership marks, small annotations, red marks and uncertain readings are distinguished where discernible. AI-assisted initial reading with damaged graphs and uncertain readings referenced to the source.
+All nine scans are indexed. Eight written faces in scans 4–8 include the dated colophon. Ownership marks, small annotations, red marks and uncertain readings are distinguished where discernible. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 12 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

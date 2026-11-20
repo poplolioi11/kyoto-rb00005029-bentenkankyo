@@ -1,0 +1,395 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 12,
+  "changes": [
+    {
+      "image": 4,
+      "side": null,
+      "column": null,
+      "kind": "layout",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "11 則依所記欄次重新掛接",
+      "reason": "依標注的原圖直欄及面別分層。館藏章戳按全幅記。",
+      "source_image_sha256": "83bb22edcf40aa51012843a305bb9a09ac1c507902790f3e837f4a678aa445c5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p4"
+    },
+    {
+      "image": 5,
+      "side": null,
+      "column": null,
+      "kind": "layout",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "19 則依所記欄次重新掛接",
+      "reason": "依標注的原圖直欄及面別分層。館藏章戳按全幅記。",
+      "source_image_sha256": "e29fe4708ed019ac1605897b065b31ecd6a552cd5cdbaa4497728a2225b5dec7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "□蚕",
+      "after": "姜蚕",
+      "reason": "在淡色透字之前，正面墨書可見姜的分筆與下部女。",
+      "source_bbox": [
+        1086,
+        950,
+        1307,
+        1256
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "e8785b7953428d23c7d1a36e21cdb76b478511f3662d6b4e330644c67c3d7976",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 4,
+      "kind": "paratext",
+      "op": "add",
+      "before": "",
+      "after": "世",
+      "reason": "原圖壽字下另有塗抹，右旁仍可辨小字世，分列保存。",
+      "source_bbox": [
+        5007,
+        2872,
+        5247,
+        3258
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_image_sha256": "e8785b7953428d23c7d1a36e21cdb76b478511f3662d6b4e330644c67c3d7976",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": null,
+      "column": null,
+      "kind": "layout",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "19 則依所記欄次重新掛接",
+      "reason": "依標注的原圖直欄及面別分層。館藏章戳按全幅記。",
+      "source_image_sha256": "e8785b7953428d23c7d1a36e21cdb76b478511f3662d6b4e330644c67c3d7976",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "中山老師",
+      "after": "中山□栁",
+      "reason": "中山下首字與蟲蝕相交，下一字可見木旁與卯形。館目可佐證姓名候讀，缺損處保留方框。",
+      "source_bbox": [
+        4676,
+        1049,
+        4904,
+        1447
+      ],
+      "offset": [
+        2,
+        6
+      ],
+      "source_image_sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 11,
+      "kind": "main",
+      "op": "replace",
+      "before": "沈痼之疾",
+      "after": "沈痼之痰",
+      "reason": "疒內有相疊火筆，與同面痰字同形。",
+      "source_bbox": [
+        3733,
+        2080,
+        3906,
+        2640
+      ],
+      "offset": [
+        9,
+        13
+      ],
+      "source_image_sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7"
+    },
+    {
+      "image": 7,
+      "side": null,
+      "column": null,
+      "kind": "layout",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "1 則依所記欄次重新掛接",
+      "reason": "依標注的原圖直欄及面別分層。館藏章戳按全幅記。",
+      "source_image_sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 6,
+      "kind": "reading-marks",
+      "op": "add",
+      "before": "",
+      "after": "朱點二處",
+      "reason": "原圖味與煎字右下各有朱點，與正文區分。",
+      "source_bbox": [
+        4676,
+        854,
+        4860,
+        2032
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_image_sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "鐡粉",
+      "after": "鉄粉",
+      "reason": "原圖從金從失，保存原用字形。",
+      "source_bbox": [
+        4878,
+        1090,
+        5037,
+        1399
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 1,
+      "kind": "main",
+      "op": "add",
+      "before": "",
+      "after": "羊角鉄粉龍膽",
+      "reason": "右緣短欄續第七幅左末羚字，初錄漏一整欄。依原圖補錄。",
+      "source_bbox": [
+        5560,
+        854,
+        5766,
+        1730
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "source_image_sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": null,
+      "column": null,
+      "kind": "layout",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "3 則依所記欄次重新掛接",
+      "reason": "依標注的原圖直欄及面別分層。館藏章戳按全幅記。",
+      "source_image_sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8",
+      "status": "疑字或細記留讀"
+    },
+    {
+      "image": 9,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p9",
+      "status": "疑字或細記留讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 6,
+      "source_bbox": [
+        1532,
+        736,
+        1767,
+        1620
+      ],
+      "source_image_sha256": "83bb22edcf40aa51012843a305bb9a09ac1c507902790f3e837f4a678aa445c5",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p4",
+      "reading": "而如為其證",
+      "status": "依原圖留讀",
+      "reason": "如左女右口，依墨畫保留句式。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 6,
+      "source_bbox": [
+        1602,
+        663,
+        1819,
+        976
+      ],
+      "source_image_sha256": "e29fe4708ed019ac1605897b065b31ecd6a552cd5cdbaa4497728a2225b5dec7",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5",
+      "reading": "悻也",
+      "status": "依原圖留讀",
+      "reason": "左心旁、右幸的斜筆可分，沒有換成相近詞。"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 5,
+      "source_bbox": [
+        4867,
+        1800,
+        5051,
+        2054
+      ],
+      "source_image_sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "reading": "去怯",
+      "status": "依原圖留讀",
+      "reason": "墨書右部為去，局部蟲孔不及兩字。"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 1,
+      "source_bbox": [
+        2526,
+        1550,
+        2699,
+        1804
+      ],
+      "source_image_sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "reading": "大勢",
+      "status": "依原圖留讀",
+      "reason": "勢在下有力形，無灬四點。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 7,
+      "source_bbox": [
+        3976,
+        803,
+        4186,
+        1988
+      ],
+      "source_image_sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8",
+      "reading": "弘化三丙午年秋七月",
+      "status": "依原圖留讀",
+      "reason": "卷末署年完整，署字與正文均按原欄。"
+    }
+  ]
+}

@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -164,53 +164,53 @@
             <ab type="column" n="11" xml:id="f04-l-c11">
               <seg type="diplomatic-text">所侵在脊髓而衝頭腦者發作有時發則卒然暴仆而不</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c02">
               <label>左頁朱點，第2欄</label>
-              <seg type="diplomatic-text" rend="unknown">類／癇者／耳／內經／與狂</seg>
+              <seg type="diplomatic-text" rend="red">類／癇者／耳／內經／與狂</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c03">
               <label>左頁朱點，第3欄</label>
-              <seg type="diplomatic-text" rend="unknown">解癇／癲者／儀也／作有時</seg>
+              <seg type="diplomatic-text" rend="red">解癇／癲者／儀也／作有時</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c04">
               <label>左頁朱點，第4欄</label>
-              <seg type="diplomatic-text" rend="unknown">也／以／焉／經云</seg>
+              <seg type="diplomatic-text" rend="red">也／以／焉／經云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c05">
               <label>左頁朱點，第5欄</label>
-              <seg type="diplomatic-text" rend="unknown">欄首狂／曰癲／失常／之病</seg>
+              <seg type="diplomatic-text" rend="red">欄首狂／曰癲／失常／之病</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c06">
               <label>左頁朱點，第6欄</label>
-              <seg type="diplomatic-text" rend="unknown">其證／異也／之因／不一</seg>
+              <seg type="diplomatic-text" rend="red">其證／異也／之因／不一</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c07">
               <label>左頁朱點，第7欄</label>
-              <seg type="diplomatic-text" rend="unknown">同也／始／受驚</seg>
+              <seg type="diplomatic-text" rend="red">同也／始／受驚</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c08">
               <label>左頁朱點，第8欄</label>
-              <seg type="diplomatic-text" rend="unknown">邪氣／于內／得志</seg>
+              <seg type="diplomatic-text" rend="red">邪氣／于內／得志</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c09">
               <label>左頁朱點，第9欄</label>
-              <seg type="diplomatic-text" rend="unknown">之類／邪毒／于裏</seg>
+              <seg type="diplomatic-text" rend="red">之類／邪毒／于裏</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c10">
               <label>左頁朱點，第10欄</label>
-              <seg type="diplomatic-text" rend="unknown">之時／在也／發動／精神也</seg>
+              <seg type="diplomatic-text" rend="red">之時／在也／發動／精神也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f04-l-c11">
               <label>左頁朱點，第11欄</label>
-              <seg type="diplomatic-text" rend="unknown">脊髓／腦者／有時／暴仆</seg>
+              <seg type="diplomatic-text" rend="red">脊髓／腦者／有時／暴仆</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="seal">
               <label>左頁藏印，下右外側長方兩方</label>
-              <seg type="diplomatic-text" rend="unknown">富士川家藏本／富士川游寄贈</seg>
+              <seg type="diplomatic-text" rend="red">富士川家藏本／富士川游寄贈</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c11">
+            <ab type="page-feature" subtype="seal">
               <label>左頁登錄戳，上邊圓印</label>
-              <seg type="diplomatic-text" rend="unknown">186804／大正7.3.31</seg>
+              <seg type="diplomatic-text" rend="black">186804／大正7.3.31</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -257,45 +257,45 @@
               <label>右頁第11欄小字</label>
               <seg type="diplomatic-text" rend="unknown">斷旁疑之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c01">
               <label>右頁朱點，第1欄</label>
-              <seg type="diplomatic-text" rend="unknown">知人／相引／上搖／搐搦／強直</seg>
+              <seg type="diplomatic-text" rend="red">知人／相引／上搖／搐搦／強直</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c02">
               <label>右頁朱點，第2欄</label>
-              <seg type="diplomatic-text" rend="unknown">凝渋／出涎／氣復</seg>
+              <seg type="diplomatic-text" rend="red">凝渋／出涎／氣復</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c04">
               <label>右頁朱點，第4欄</label>
-              <seg type="diplomatic-text" rend="unknown">即癲也</seg>
+              <seg type="diplomatic-text" rend="red">即癲也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c05">
               <label>右頁朱點，第5欄</label>
-              <seg type="diplomatic-text" rend="unknown">證者／變證／自別也／邪毒</seg>
+              <seg type="diplomatic-text" rend="red">證者／變證／自別也／邪毒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c06">
               <label>右頁朱點，第6欄</label>
-              <seg type="diplomatic-text" rend="unknown">胸膈／鬱結／太盛／聚胸／作無</seg>
+              <seg type="diplomatic-text" rend="red">胸膈／鬱結／太盛／聚胸／作無</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c07">
               <label>右頁朱點，第7欄</label>
-              <seg type="diplomatic-text" rend="unknown">止者／狂也／經云／欲走／呼</seg>
+              <seg type="diplomatic-text" rend="red">止者／狂也／經云／欲走／呼</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c08">
               <label>右頁朱點，第8欄</label>
-              <seg type="diplomatic-text" rend="unknown">得卧／而熱／妄言／而走／水火</seg>
+              <seg type="diplomatic-text" rend="red">得卧／而熱／妄言／而走／水火</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c09">
               <label>右頁朱點，第9欄</label>
-              <seg type="diplomatic-text" rend="unknown">而歌／上屋／疎者／是也／難經</seg>
+              <seg type="diplomatic-text" rend="red">而歌／上屋／疎者／是也／難經</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c10">
               <label>右頁朱點，第10欄</label>
-              <seg type="diplomatic-text" rend="unknown">説／多怒別／肝等／解也</seg>
+              <seg type="diplomatic-text" rend="red">説／多怒別／肝等／解也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-r-c11">
               <label>右頁朱點，第11欄</label>
-              <seg type="diplomatic-text" rend="unknown">而已／二病／病也</seg>
+              <seg type="diplomatic-text" rend="red">而已／二病／病也</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -332,45 +332,45 @@
             <ab type="column" n="11" xml:id="f05-l-c11">
               <seg type="diplomatic-text">應用方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c01">
               <label>左頁朱點，第1欄</label>
-              <seg type="diplomatic-text" rend="unknown">在上者／吐之／在下者／下之</seg>
+              <seg type="diplomatic-text" rend="red">在上者／吐之／在下者／下之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c02">
               <label>左頁朱點，第2欄</label>
-              <seg type="diplomatic-text" rend="unknown">之藥／而／愈者／也／之患</seg>
+              <seg type="diplomatic-text" rend="red">之藥／而／愈者／也／之患</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c03">
               <label>左頁朱點，第3欄</label>
-              <seg type="diplomatic-text" rend="unknown">根治也／二證／目瞪／癡者</seg>
+              <seg type="diplomatic-text" rend="red">根治也／二證／目瞪／癡者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c04">
               <label>左頁朱點，第4欄</label>
-              <seg type="diplomatic-text" rend="unknown">候也／病者／而生／邪鬱</seg>
+              <seg type="diplomatic-text" rend="red">候也／病者／而生／邪鬱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c05">
               <label>左頁朱點，第5欄</label>
-              <seg type="diplomatic-text" rend="unknown">衝逆／此證／狂者</seg>
+              <seg type="diplomatic-text" rend="red">衝逆／此證／狂者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c06">
               <label>左頁朱點，第6欄</label>
-              <seg type="diplomatic-text" rend="unknown">悻也／之狂而／之病也</seg>
+              <seg type="diplomatic-text" rend="red">悻也／之狂而／之病也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c07">
               <label>左頁朱點，第7欄</label>
-              <seg type="diplomatic-text" rend="unknown">止也／近世／癇證者／鬱滯／怔忡</seg>
+              <seg type="diplomatic-text" rend="red">止也／近世／癇證者／鬱滯／怔忡</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c08">
               <label>左頁朱點，第8欄</label>
-              <seg type="diplomatic-text" rend="unknown">飲等之病／癲狂者／癇證</seg>
+              <seg type="diplomatic-text" rend="red">飲等之病／癲狂者／癇證</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c09">
               <label>左頁朱點，第9欄</label>
-              <seg type="diplomatic-text" rend="unknown">也／耳／相類者／宿因者</seg>
+              <seg type="diplomatic-text" rend="red">也／耳／相類者／宿因者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f05-l-c10">
               <label>左頁朱點，第10欄</label>
-              <seg type="diplomatic-text" rend="unknown">疾／氣病／可也</seg>
+              <seg type="diplomatic-text" rend="red">疾／氣病／可也</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -417,45 +417,49 @@
             <ab type="column" n="11" xml:id="f06-r-c11">
               <seg type="diplomatic-text">右方中曾經治驗者于茲錄二三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c01">
               <label>右頁第1欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">得効／奇効／醫統</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c02">
               <label>右頁第2欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">綱目小兒門／金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c03">
               <label>右頁第3欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">統旨／醫統／錦囊</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c04">
               <label>右頁第4欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">醫鑑／壽□</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c05">
               <label>右頁第5欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">保嬰撮要／局方本方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c06">
               <label>右頁第6欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">傷寒類方／□沈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c07">
               <label>右頁第7欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">本事／師傳</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
               <label>右頁第8欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">三因／十便</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c09">
               <label>右頁第9欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">拔萃／回春</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
               <label>右頁第10欄小字</label>
               <seg type="diplomatic-text" rend="unknown">濟生</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f06-r-c04">
+              <label>第4欄右側壽字下有舊墨塗抹及旁補小字</label>
+              <seg type="diplomatic-text" rend="black">世</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -484,7 +488,7 @@
               <seg type="diplomatic-text">附子　羌活　獨活　炙甘草　當歸</seg>
             </ab>
             <ab type="column" n="9" xml:id="f06-l-c09">
-              <seg type="diplomatic-text">□蚕</seg>
+              <seg type="diplomatic-text">姜蚕</seg>
             </ab>
             <ab type="column" n="10" xml:id="f06-l-c10">
               <seg type="diplomatic-text">右十二味水煎服</seg>
@@ -492,45 +496,45 @@
             <ab type="column" n="11" xml:id="f06-l-c11">
               <seg type="diplomatic-text">金張元素云經云恐則氣下精怯而上焦閉以羌活獨</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
               <label>左頁第7欄小字，川烏頭下</label>
               <seg type="diplomatic-text" rend="unknown">各二分</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c08">
               <label>左頁第8欄小字，依次</label>
               <seg type="diplomatic-text" rend="unknown">各三分／五分／四分</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c09">
               <label>左頁第9欄小字</label>
               <seg type="diplomatic-text" rend="unknown">各一分半</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c01">
               <label>左頁朱點，第1欄</label>
-              <seg type="diplomatic-text" rend="unknown">天益／寶鑑／湯條／條云／發搐</seg>
+              <seg type="diplomatic-text" rend="red">天益／寶鑑／湯條／條云／發搐</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c02">
               <label>左頁朱點，第2欄</label>
-              <seg type="diplomatic-text" rend="unknown">壅塞／白睛／強急／復發／不差</seg>
+              <seg type="diplomatic-text" rend="red">壅塞／白睛／強急／復發／不差</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c03">
               <label>左頁朱點，第3欄</label>
-              <seg type="diplomatic-text" rend="unknown">如癡／而急／之劑／其氣</seg>
+              <seg type="diplomatic-text" rend="red">如癡／而急／之劑／其氣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c04">
               <label>左頁朱點，第4欄</label>
-              <seg type="diplomatic-text" rend="unknown">照海／七壯</seg>
+              <seg type="diplomatic-text" rend="red">照海／七壯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c05">
               <label>左頁朱點，第5欄</label>
-              <seg type="diplomatic-text" rend="unknown">樓英／綱目云／筋攣</seg>
+              <seg type="diplomatic-text" rend="red">樓英／綱目云／筋攣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c10">
               <label>左頁朱點，第10欄</label>
-              <seg type="diplomatic-text" rend="unknown">十二味／煎服</seg>
+              <seg type="diplomatic-text" rend="red">十二味／煎服</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+            <ab type="page-feature" subtype="vermillion-reading-marks" corresp="#f06-l-c11">
               <label>左頁朱點，第11欄</label>
-              <seg type="diplomatic-text" rend="unknown">元素云／氣下／焦閉</seg>
+              <seg type="diplomatic-text" rend="red">元素云／氣下／焦閉</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -546,10 +550,6 @@
             <ab type="transcription-issue" n="right:None">
               <quote>一</quote>
               <note type="editorial">方名每一處在本欄以「一」起行，初錄用全形空格表示同欄區隔。小字方源另列。第4欄下端壽後有多筆墨疊，字數未定。第5、6欄蟲孔靠近原來筆畫，龍、牛仍可讀。第10欄倪、彙有待再核。反透文字顏色淺且反向。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:9">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
             <ab type="transcription-issue" n="left:8">
               <quote>炙</quote>
@@ -580,7 +580,7 @@
               <seg type="diplomatic-text">香辛溫躰重氣清去怯安神故以為使又</seg>
             </ab>
             <ab type="column" n="6" xml:id="f07-r-c06">
-              <seg type="diplomatic-text">吾朝中山老師解方意云古人所謂癇疾之原得之驚或</seg>
+              <seg type="diplomatic-text">吾朝中山□栁解方意云古人所謂癇疾之原得之驚或</seg>
             </ab>
             <ab type="column" n="7" xml:id="f07-r-c07">
               <seg type="diplomatic-text">在母腹之時或在有生之後必以驚恐而致疾故曰驚</seg>
@@ -595,9 +595,9 @@
               <seg type="diplomatic-text">肝則筋牽掣而令搐搦也風痰實于太陽經則目上視</seg>
             </ab>
             <ab type="column" n="11" xml:id="f07-r-c11">
-              <seg type="diplomatic-text">項背強直也今考此方沈痼之疾非附子烏頭不足以</seg>
+              <seg type="diplomatic-text">項背強直也今考此方沈痼之痰非附子烏頭不足以</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c11">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c05">
               <label>右面第5、6欄</label>
               <seg type="diplomatic-text" rend="unknown">見小片蟲缺及朱點</seg>
             </ab>
@@ -651,38 +651,49 @@
               <quote>方</quote>
               <note type="editorial">第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。</note>
             </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>中山□栁</quote>
+              <seg type="candidate">中山三栁</seg>
+              <note type="editorial">首字在缺損旁，待核。姓名另見日本國立國會圖書館所錄中山三柳。</note>
+            </ab>
           </div>
         </div>
         <pb n="8" facs="#f08" />
         <div n="8" type="scan" subtype="historical-nosology-and-colophon">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f08-r-c01">
-              <seg type="diplomatic-text">方</seg>
+              <seg type="diplomatic-text">羊角鉄粉龍膽</seg>
+              <note type="original-mark" n="6" rend="red">、</note>
             </ab>
             <ab type="column" n="2" xml:id="f08-r-c02">
-              <seg type="diplomatic-text">蘇子陳皮唐厚朴前胡當歸半夏</seg>
+              <seg type="diplomatic-text">方</seg>
             </ab>
             <ab type="column" n="3" xml:id="f08-r-c03">
-              <seg type="diplomatic-text">唐枳實天麻南星茯苓羚羊角</seg>
+              <seg type="diplomatic-text">蘇子陳皮唐厚朴前胡當歸半夏</seg>
             </ab>
             <ab type="column" n="4" xml:id="f08-r-c04">
-              <seg type="diplomatic-text">鐡粉龍膽甘草</seg>
+              <seg type="diplomatic-text">唐枳實天麻南星茯苓羚羊角</seg>
             </ab>
             <ab type="column" n="5" xml:id="f08-r-c05">
-              <seg type="diplomatic-text">右十四味生姜水煎</seg>
+              <seg type="diplomatic-text">鉄粉龍膽甘草</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">右十四味生姜水煎</seg>
+              <note type="original-mark" n="4" rend="red">、</note>
+              <note type="original-mark" n="8" rend="red">、</note>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
               <seg type="diplomatic-text">弘化三丙午年秋七月　森　道謙源直方謹誌</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c03">
               <label>第2欄行內小字</label>
               <seg type="diplomatic-text" rend="unknown">炒大／炒中／中／中／中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c04">
               <label>第3欄行內小字</label>
               <seg type="diplomatic-text" rend="unknown">中大／中小／中／中大／中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c05">
               <label>第4欄行內小字</label>
               <seg type="diplomatic-text" rend="unknown">中／中大／中小／少</seg>
             </ab>
