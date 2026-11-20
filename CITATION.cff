@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '辨癲癇狂（1846 年卷末署記，京都大學 ヘ/27） / Bentenkankyō [Distinguishing dian, xian, and
+  kuang]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00005029-bentenkankyo
+keywords:
+- 辨癲癇狂
+- 弁癲癇狂
+- 森直方
+- Bentenkankyō
+- psychiatry history
+- history of medicine
+- historical medical terminology
+- Kanbun

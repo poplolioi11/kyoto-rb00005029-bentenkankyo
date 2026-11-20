@@ -1,0 +1,727 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>辨癲癇狂</title>
+        <title type="alternate">Bentenkankyō</title>
+        <author>森直方（道謙）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>日本京都（現藏）</settlement>
+            <repository>京都大學附屬圖書館</repository>
+            <collection>富士川文庫</collection>
+            <idno>ヘ/27</idno>
+            <altIdentifier>
+              <idno>RB00005029</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>森直方十九世紀漢文醫籍，列辨癲、癇、狂的發作形貌，並錄見解、引文和方名。</p>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00005029">館方書目</ref>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005029/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>卷末署弘化三丙午年秋七月（1846）。抄年未詳。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p1" xml:id="f01">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00001_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p2" xml:id="f02">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00002_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p3" xml:id="f03">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00003_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p4" xml:id="f04">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00004_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5" xml:id="f05">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00005_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6" xml:id="f06">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00006_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7" xml:id="f07">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00007_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8" xml:id="f08">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00008_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="9" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p9" xml:id="f09">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00009_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>函前題簽</label>
+              <seg type="diplomatic-text" rend="unknown">辨癲癇狂</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：藍帙側面題簽。左邊帙紐與右側館籤的折角另見第2幅。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>函脊題簽</label>
+              <seg type="diplomatic-text" rend="unknown">辨癲癇狂</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：合帙平攤，函面左題和中脊細簽均題本書名。館籤數字磨損。</ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>前封左墨題</label>
+              <seg type="diplomatic-text" rend="unknown">辨癲癇狂</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>前封右上館籤</label>
+              <seg type="diplomatic-text" rend="unknown">富士川本／ヘ／27</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal">
+              <label>前封右下朱印</label>
+              <seg type="diplomatic-text" rend="red">富士川家藏本</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：原冊書衣淡墨多為背頁透痕，前封題字末「狂」筆形草率。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="historical-nosology-and-colophon">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">辨癲癇狂</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">癲與狂原一類而癇者即癲之別名耳故內經解癲與狂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">而不解癇蓋癲者顛動失常之儀也以其發作有時故又</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">名曰癇也此以古書多三名相混言焉經云厥于陽明曰</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">狂厥于太陽曰癲夫癲狂共精神失常心君不守舍之病</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">而如為其證則自異也蓋以其精神失常之因種々不一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">其所侵亦不相同也其始或因在母胎受驚或因幼少感</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">邪氣或因飲食之毒積于內或因求望高遠不得志或因</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-l-c09">
+              <seg type="diplomatic-text">內熱火動之類以結一種之邪毒而藏伏于裏在于平和</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f04-l-c10">
+              <seg type="diplomatic-text">之時則不知其所在也若致發動則必逼于精神也蓋其</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f04-l-c11">
+              <seg type="diplomatic-text">所侵在脊髓而衝頭腦者發作有時發則卒然暴仆而不</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第2欄</label>
+              <seg type="diplomatic-text" rend="unknown">類／癇者／耳／內經／與狂</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第3欄</label>
+              <seg type="diplomatic-text" rend="unknown">解癇／癲者／儀也／作有時</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第4欄</label>
+              <seg type="diplomatic-text" rend="unknown">也／以／焉／經云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第5欄</label>
+              <seg type="diplomatic-text" rend="unknown">欄首狂／曰癲／失常／之病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第6欄</label>
+              <seg type="diplomatic-text" rend="unknown">其證／異也／之因／不一</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第7欄</label>
+              <seg type="diplomatic-text" rend="unknown">同也／始／受驚</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第8欄</label>
+              <seg type="diplomatic-text" rend="unknown">邪氣／于內／得志</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第9欄</label>
+              <seg type="diplomatic-text" rend="unknown">之類／邪毒／于裏</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第10欄</label>
+              <seg type="diplomatic-text" rend="unknown">之時／在也／發動／精神也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c11">
+              <label>左頁朱點，第11欄</label>
+              <seg type="diplomatic-text" rend="unknown">脊髓／腦者／有時／暴仆</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f04-l-c11">
+              <label>左頁藏印，下右外側長方兩方</label>
+              <seg type="diplomatic-text" rend="unknown">富士川家藏本／富士川游寄贈</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f04-l-c11">
+              <label>左頁登錄戳，上邊圓印</label>
+              <seg type="diplomatic-text" rend="unknown">186804／大正7.3.31</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右面空白，紙皺、孔裂、折痕和薄反透另見，無本面正文。 左面：左頁頂部方朱印壓在第2、3欄上數字，正文黑墨仍可辨。方印篆文不強解。左頁「其證則」附近與右面有反透及蟲孔，不據孔緣補筆。第6欄開頭「而如」是照字形初讀。「種々」末隨疊字號。</ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="historical-nosology-and-colophon">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">知人口眼相引目睛上搖手足搐搦背脊強直津液為之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">凝渋吐沫出涎暫時而氣復則甦者此則癲也癇也經云</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">巨陽之厥則首腫足不能行發為眴仆者是也又小兒多</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">發此證則稱驚癇風癇急驚風者亦即癲也□至如慢驚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">風之一證者即癇之變證而原因自別也又其邪毒直逼</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">於胸膈而痰熱鬱結而陽氣太盛頑痰聚胸失心妄作無</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">休止者此即狂也經云陽明之厥則狂疾欲走呼腹滿不</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">得卧面赤而熱妄見妄言甚則棄衣而走不避水火登高</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-r-c09">
+              <seg type="diplomatic-text">而歌踰垣上屋罵詈不避親疎者是也難經重陰重陽之</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f05-r-c10">
+              <seg type="diplomatic-text">説及後世以多喜多怒別而屬心與肝等皆似強解也故</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f05-r-c11">
+              <seg type="diplomatic-text">今愚以臆斷而已蓋此二病共為難治之病也但頑痰</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁第11欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">斷旁疑之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第1欄</label>
+              <seg type="diplomatic-text" rend="unknown">知人／相引／上搖／搐搦／強直</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第2欄</label>
+              <seg type="diplomatic-text" rend="unknown">凝渋／出涎／氣復</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第4欄</label>
+              <seg type="diplomatic-text" rend="unknown">即癲也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第5欄</label>
+              <seg type="diplomatic-text" rend="unknown">證者／變證／自別也／邪毒</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第6欄</label>
+              <seg type="diplomatic-text" rend="unknown">胸膈／鬱結／太盛／聚胸／作無</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第7欄</label>
+              <seg type="diplomatic-text" rend="unknown">止者／狂也／經云／欲走／呼</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第8欄</label>
+              <seg type="diplomatic-text" rend="unknown">得卧／而熱／妄言／而走／水火</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第9欄</label>
+              <seg type="diplomatic-text" rend="unknown">而歌／上屋／疎者／是也／難經</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第10欄</label>
+              <seg type="diplomatic-text" rend="unknown">説／多怒別／肝等／解也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c11">
+              <label>右頁朱點，第11欄</label>
+              <seg type="diplomatic-text" rend="unknown">而已／二病／病也</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">膠固在上者必先吐之在下者必先下之更用安神養血</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">之藥兼施灸燔而愈者有之也然亦多有再作之患以難</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">得根治也復此二證至神脫而目瞪如愚如癡者不治之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">候也其狂病者以因火熱鬱結而生故如熱病邪鬱及產</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">後血熱衝逆亦間有發此證及飲酒醉中如狂者名曰酒</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">悻也此皆一時之狂而非宿因之病也故勢解則其證自</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">止也又本邦近世稱癇證者諸氣鬱滯驚悸怔忡痰</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">飲等之病其證稍似癲狂者彙謂之癇證名儀甚不穩當</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-l-c09">
+              <seg type="diplomatic-text">也固誣名耳苟其證相類者而非有宿因者若彙謂之心</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f05-l-c10">
+              <seg type="diplomatic-text">疾及氣病則可也</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f05-l-c11">
+              <seg type="diplomatic-text">應用方</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第1欄</label>
+              <seg type="diplomatic-text" rend="unknown">在上者／吐之／在下者／下之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第2欄</label>
+              <seg type="diplomatic-text" rend="unknown">之藥／而／愈者／也／之患</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第3欄</label>
+              <seg type="diplomatic-text" rend="unknown">根治也／二證／目瞪／癡者</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第4欄</label>
+              <seg type="diplomatic-text" rend="unknown">候也／病者／而生／邪鬱</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第5欄</label>
+              <seg type="diplomatic-text" rend="unknown">衝逆／此證／狂者</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第6欄</label>
+              <seg type="diplomatic-text" rend="unknown">悻也／之狂而／之病也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第7欄</label>
+              <seg type="diplomatic-text" rend="unknown">止也／近世／癇證者／鬱滯／怔忡</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第8欄</label>
+              <seg type="diplomatic-text" rend="unknown">飲等之病／癲狂者／癇證</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第9欄</label>
+              <seg type="diplomatic-text" rend="unknown">也／耳／相類者／宿因者</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c11">
+              <label>左頁朱點，第10欄</label>
+              <seg type="diplomatic-text" rend="unknown">疾／氣病／可也</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第4欄「□至如」首字候審／當，字形偏審。第5欄「變證」後、第6欄「痰」旁有筆畫脫落或蟲孔。反透圓戳及欄底朱印不另作新印。 左面：第2欄「灸燔」後者近燔。第6欄「皆一」間稍淺且有孔蝕，內外部位可供回圖。第8、9欄「彙」為上部顯著的俗書，初讀彙。</ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="historical-nosology-and-colophon">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">一三黃湯　一瓜蔕散　一大承氣湯</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">一沈香天麻湯　一甘麥大棗湯</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">一清神湯　一正心湯　一鉤藤湯</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">一清心溫膽湯　一加味逍遙散　一灸法</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">一抑肝散　一牛黃清心丸</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">一柴胡加龍骨牡蠣湯　一辰砂散</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">一茯苓圓　一加味蘇子降氣湯</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">一鎭心丹　一指迷鐵落飲　一丹溪一方</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-r-c09">
+              <seg type="diplomatic-text">一朱砂安神圓　一防風通聖散</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f06-r-c10">
+              <seg type="diplomatic-text">一清心化痰湯　一明倪朱謨本草彙言一方</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f06-r-c11">
+              <seg type="diplomatic-text">右方中曾經治驗者于茲錄二三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第1欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">得効／奇効／醫統</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第2欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">綱目小兒門／金匱</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第3欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">統旨／醫統／錦囊</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第4欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">醫鑑／壽□</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第5欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">保嬰撮要／局方本方</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第6欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">傷寒類方／□沈</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第7欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">本事／師傳</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第8欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">三因／十便</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第9欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">拔萃／回春</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c11">
+              <label>右頁第10欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">濟生</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">元羅天益衞生寶鑑沈香天麻湯條云治驚癇發搐痰</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">涎壅塞目多白睛項背強急醒後復發數十日不差神思</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">如癡脈沈弦而急多服鎭墜寒涼之劑復損其氣兼灸申</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">脈照海各二七壯</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">又明樓英醫學綱目云治癇瘈瘲筋攣</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">沈香天麻湯方</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">沈香　益智　川烏頭　天麻　防風　半夏</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08">
+              <seg type="diplomatic-text">附子　羌活　獨活　炙甘草　當歸</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-l-c09">
+              <seg type="diplomatic-text">□蚕</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f06-l-c10">
+              <seg type="diplomatic-text">右十二味水煎服</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f06-l-c11">
+              <seg type="diplomatic-text">金張元素云經云恐則氣下精怯而上焦閉以羌活獨</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁第7欄小字，川烏頭下</label>
+              <seg type="diplomatic-text" rend="unknown">各二分</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁第8欄小字，依次</label>
+              <seg type="diplomatic-text" rend="unknown">各三分／五分／四分</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁第9欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">各一分半</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第1欄</label>
+              <seg type="diplomatic-text" rend="unknown">天益／寶鑑／湯條／條云／發搐</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第2欄</label>
+              <seg type="diplomatic-text" rend="unknown">壅塞／白睛／強急／復發／不差</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第3欄</label>
+              <seg type="diplomatic-text" rend="unknown">如癡／而急／之劑／其氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第4欄</label>
+              <seg type="diplomatic-text" rend="unknown">照海／七壯</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第5欄</label>
+              <seg type="diplomatic-text" rend="unknown">樓英／綱目云／筋攣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第10欄</label>
+              <seg type="diplomatic-text" rend="unknown">十二味／煎服</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c11">
+              <label>左頁朱點，第11欄</label>
+              <seg type="diplomatic-text" rend="unknown">元素云／氣下／焦閉</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：方名每一處在本欄以「一」起行，初錄用全形空格表示同欄區隔。小字方源另列。第4欄下端壽後有多筆墨疊，字數未定。第5、6欄蟲孔靠近原來筆畫，龍、牛仍可讀。第10欄倪、彙有待再核。反透文字顏色淺且反向。 左面：開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。</ab>
+            <ab type="transcription-issue" n="right:11">
+              <quote>右頁第4欄小字，依次</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:11">
+              <quote>右頁第6欄小字，依次</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>一</quote>
+              <note type="editorial">方名每一處在本欄以「一」起行，初錄用全形空格表示同欄區隔。小字方源另列。第4欄下端壽後有多筆墨疊，字數未定。第5、6欄蟲孔靠近原來筆畫，龍、牛仍可讀。第10欄倪、彙有待再核。反透文字顏色淺且反向。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>炙</quote>
+              <note type="editorial">開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>炙甘草</quote>
+              <note type="editorial">開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="historical-nosology-and-colophon">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">活苦温引氣上行又入太陽為引用故以為君天麻防</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">風以散之當歸甘草辛甘溫以補氣血之不足又養胃</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">氣故以為臣附子川烏益智大辛溫行陽退陰又治客</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">寒傷胃腎主五液入脾為涎以生姜半夏燥濕化痰沈</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">香辛溫躰重氣清去怯安神故以為使又</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">吾朝中山老師解方意云古人所謂癇疾之原得之驚或</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">在母腹之時或在有生之後必以驚恐而致疾故曰驚</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08">
+              <seg type="diplomatic-text">癇蓋恐則氣下驚則氣亂恐氣歸腎驚氣歸心併於心</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-r-c09">
+              <seg type="diplomatic-text">腎則肝脾獨虛肝虛則生風脾虛則生痰故風痰盛于</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f07-r-c10">
+              <seg type="diplomatic-text">肝則筋牽掣而令搐搦也風痰實于太陽經則目上視</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f07-r-c11">
+              <seg type="diplomatic-text">項背強直也今考此方沈痼之疾非附子烏頭不足以</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c11">
+              <label>右面第5、6欄</label>
+              <seg type="diplomatic-text" rend="unknown">見小片蟲缺及朱點</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">行其滯而其大勢之性又足以益火之原而消陰翳譬</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">之太陽中天幽谷之翳障無不消滅此所以用附子川</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">烏也防風羌活獨活可以泄在經之邪半夏天麻姜蚕</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">可以豁在經之痰益智可以安神氣當歸可以調血脉</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">沈香通天徹地可以開壅滯甘草益氣緩中可以和逆</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">痰</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">丹溪一方　治癇症用大蝙蝠一箇以硃砂三錢填入腹</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08">
+              <seg type="diplomatic-text">内以薪灰盛火炙令皮焦為度候冷為細末每一箇分</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-l-c09">
+              <seg type="diplomatic-text">作四服空心白湯下</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f07-l-c10">
+              <seg type="diplomatic-text">師傳治癇症上逆頭痛眩暈足冷者方</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f07-l-c11">
+              <seg type="diplomatic-text">即局方蘇子降氣湯去桂枝加枳實天麻南星茯苓羚</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：逐欄照錄。第五欄清下及第六欄「中山」後有紙面缺損，字形待校。朱筆讀點的逐符定位另待。 左面：第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。</ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>大勢</quote>
+              <note type="editorial">第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>丹溪一方</quote>
+              <note type="editorial">第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>方</quote>
+              <note type="editorial">第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="historical-nosology-and-colophon">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">方</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">蘇子陳皮唐厚朴前胡當歸半夏</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">唐枳實天麻南星茯苓羚羊角</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">鐡粉龍膽甘草</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">右十四味生姜水煎</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">弘化三丙午年秋七月　森　道謙源直方謹誌</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+              <label>第2欄行內小字</label>
+              <seg type="diplomatic-text" rend="unknown">炒大／炒中／中／中／中</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+              <label>第3欄行內小字</label>
+              <seg type="diplomatic-text" rend="unknown">中大／中小／中／中大／中</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c06">
+              <label>第4欄行內小字</label>
+              <seg type="diplomatic-text" rend="unknown">中／中大／中小／少</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>左側上部細筆</label>
+              <seg type="diplomatic-text" rend="unknown">○□</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：三欄方箋大字與行內小字依印面分錄。末欄上部署弘化三丙午年秋七月（1846），下部署森與道謙源直方。左上緣裂口不及字。 左面：本面僅靠左上微小筆註，主書面未見當面正文；字形待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>左側上部細筆</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">本面僅靠左上微小筆註，主書面未見當面正文；字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>後封下緣倒向細字</label>
+              <seg type="diplomatic-text" rend="unknown">□□</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：原冊後封斑駁。下緣倒向墨痕多斷裂，字數約略，不視為另一段正文。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>後封下緣倒向細字</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

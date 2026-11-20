@@ -1,0 +1,112 @@
+{
+  "historical_author": "森直方（道謙）",
+  "source_identity": "京都大學附屬圖書館富士川文庫 ヘ/27，RB00005029",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005029",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005029/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 9,
+  "content_scan_count": 5,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "fc6dc391c170d28d19f6ddbf02ed23506f05e6a7df293f399ce8b90b6bea996b",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "96693fcec1821109743ee961d16ee65ab4de337d766f75b57c599fb407596276",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "4648318dfcd4369fab398a64bfaab98dfa7f9a90fd90319502598f1b9dc4f9f3",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "83bb22edcf40aa51012843a305bb9a09ac1c507902790f3e837f4a678aa445c5",
+      "content_role": "historical-nosology-and-colophon"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "e29fe4708ed019ac1605897b065b31ecd6a552cd5cdbaa4497728a2225b5dec7",
+      "content_role": "historical-nosology-and-colophon"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "e8785b7953428d23c7d1a36e21cdb76b478511f3662d6b4e330644c67c3d7976",
+      "content_role": "historical-nosology-and-colophon"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "content_role": "historical-nosology-and-colophon"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "content_role": "historical-nosology-and-colophon"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "5aaab1a5fddf62be3b708c23fb6b9583dc8072aeb418d86b8eacbf321f7e401c",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}

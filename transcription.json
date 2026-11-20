@@ -1,0 +1,1391 @@
+{
+  "metadata": {
+    "title": "辨癲癇狂",
+    "catalogue_title": "弁癲癇狂",
+    "alternate_title": "弁癲癇狂",
+    "roman_title": "Bentenkankyō",
+    "author": "森直方（道謙）",
+    "date": "卷末署弘化三丙午年秋七月（1846）。抄年未詳。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "ヘ/27",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005029",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "森直方十九世紀漢文醫籍，列辨癲、癇、狂的發作形貌，並錄見解、引文和方名。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005029/manifest.json",
+    "manifest_sha256": "7edf12aa808fba758daba4777ed91710dbb57676d928c58cc82b873ae665bffe",
+    "record_id": "RB00005029",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "辨癲癇狂（1846 年卷末署記，京都大學 ヘ/27） / Bentenkankyō [Distinguishing dian, xian, and kuang]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "fc6dc391c170d28d19f6ddbf02ed23506f05e6a7df293f399ce8b90b6bea996b",
+      "bytes": 255562,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "函前題簽",
+              "text": "辨癲癇狂",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍帙側面題簽。左邊帙紐與右側館籤的折角另見第2幅。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "96693fcec1821109743ee961d16ee65ab4de337d766f75b57c599fb407596276",
+      "bytes": 340445,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "函脊題簽",
+              "text": "辨癲癇狂",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：合帙平攤，函面左題和中脊細簽均題本書名。館籤數字磨損。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "4648318dfcd4369fab398a64bfaab98dfa7f9a90fd90319502598f1b9dc4f9f3",
+      "bytes": 240445,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "前封左墨題",
+              "text": "辨癲癇狂",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封右上館籤",
+              "text": "富士川本／ヘ／27",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "ヘ",
+                "27"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "前封右下朱印",
+              "text": "富士川家藏本",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：原冊書衣淡墨多為背頁透痕，前封題字末「狂」筆形草率。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "83bb22edcf40aa51012843a305bb9a09ac1c507902790f3e837f4a678aa445c5",
+      "bytes": 287103,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "historical-nosology-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "辨癲癇狂"
+            },
+            {
+              "text": "癲與狂原一類而癇者即癲之別名耳故內經解癲與狂"
+            },
+            {
+              "text": "而不解癇蓋癲者顛動失常之儀也以其發作有時故又"
+            },
+            {
+              "text": "名曰癇也此以古書多三名相混言焉經云厥于陽明曰"
+            },
+            {
+              "text": "狂厥于太陽曰癲夫癲狂共精神失常心君不守舍之病"
+            },
+            {
+              "text": "而如為其證則自異也蓋以其精神失常之因種々不一"
+            },
+            {
+              "text": "其所侵亦不相同也其始或因在母胎受驚或因幼少感"
+            },
+            {
+              "text": "邪氣或因飲食之毒積于內或因求望高遠不得志或因"
+            },
+            {
+              "text": "內熱火動之類以結一種之邪毒而藏伏于裏在于平和"
+            },
+            {
+              "text": "之時則不知其所在也若致發動則必逼于精神也蓋其"
+            },
+            {
+              "text": "所侵在脊髓而衝頭腦者發作有時發則卒然暴仆而不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第2欄",
+              "text": "類／癇者／耳／內經／與狂",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "類",
+                "癇者",
+                "耳",
+                "內經",
+                "與狂"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第3欄",
+              "text": "解癇／癲者／儀也／作有時",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "解癇",
+                "癲者",
+                "儀也",
+                "作有時"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第4欄",
+              "text": "也／以／焉／經云",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "以",
+                "焉",
+                "經云"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第5欄",
+              "text": "欄首狂／曰癲／失常／之病",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "欄首狂",
+                "曰癲",
+                "失常",
+                "之病"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第6欄",
+              "text": "其證／異也／之因／不一",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "其證",
+                "異也",
+                "之因",
+                "不一"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第7欄",
+              "text": "同也／始／受驚",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "同也",
+                "始",
+                "受驚"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第8欄",
+              "text": "邪氣／于內／得志",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "邪氣",
+                "于內",
+                "得志"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第9欄",
+              "text": "之類／邪毒／于裏",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "之類",
+                "邪毒",
+                "于裏"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第10欄",
+              "text": "之時／在也／發動／精神也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "之時",
+                "在也",
+                "發動",
+                "精神也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第11欄",
+              "text": "脊髓／腦者／有時／暴仆",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "脊髓",
+                "腦者",
+                "有時",
+                "暴仆"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左頁藏印，下右外側長方兩方",
+              "text": "富士川家藏本／富士川游寄贈",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "富士川家藏本",
+                "富士川游寄贈"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左頁登錄戳，上邊圓印",
+              "text": "186804／大正7.3.31",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "186804",
+                "大正7.3.31"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右面空白，紙皺、孔裂、折痕和薄反透另見，無本面正文。 左面：左頁頂部方朱印壓在第2、3欄上數字，正文黑墨仍可辨。方印篆文不強解。左頁「其證則」附近與右面有反透及蟲孔，不據孔緣補筆。第6欄開頭「而如」是照字形初讀。「種々」末隨疊字號。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "e29fe4708ed019ac1605897b065b31ecd6a552cd5cdbaa4497728a2225b5dec7",
+      "bytes": 325695,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "historical-nosology-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "知人口眼相引目睛上搖手足搐搦背脊強直津液為之"
+            },
+            {
+              "text": "凝渋吐沫出涎暫時而氣復則甦者此則癲也癇也經云"
+            },
+            {
+              "text": "巨陽之厥則首腫足不能行發為眴仆者是也又小兒多"
+            },
+            {
+              "text": "發此證則稱驚癇風癇急驚風者亦即癲也□至如慢驚"
+            },
+            {
+              "text": "風之一證者即癇之變證而原因自別也又其邪毒直逼"
+            },
+            {
+              "text": "於胸膈而痰熱鬱結而陽氣太盛頑痰聚胸失心妄作無"
+            },
+            {
+              "text": "休止者此即狂也經云陽明之厥則狂疾欲走呼腹滿不"
+            },
+            {
+              "text": "得卧面赤而熱妄見妄言甚則棄衣而走不避水火登高"
+            },
+            {
+              "text": "而歌踰垣上屋罵詈不避親疎者是也難經重陰重陽之"
+            },
+            {
+              "text": "説及後世以多喜多怒別而屬心與肝等皆似強解也故"
+            },
+            {
+              "text": "今愚以臆斷而已蓋此二病共為難治之病也但頑痰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第11欄小字",
+              "text": "斷旁疑之",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第1欄",
+              "text": "知人／相引／上搖／搐搦／強直",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "知人",
+                "相引",
+                "上搖",
+                "搐搦",
+                "強直"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第2欄",
+              "text": "凝渋／出涎／氣復",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "凝渋",
+                "出涎",
+                "氣復"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第4欄",
+              "text": "即癲也",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第5欄",
+              "text": "證者／變證／自別也／邪毒",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "證者",
+                "變證",
+                "自別也",
+                "邪毒"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第6欄",
+              "text": "胸膈／鬱結／太盛／聚胸／作無",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "胸膈",
+                "鬱結",
+                "太盛",
+                "聚胸",
+                "作無"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第7欄",
+              "text": "止者／狂也／經云／欲走／呼",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "止者",
+                "狂也",
+                "經云",
+                "欲走",
+                "呼"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第8欄",
+              "text": "得卧／而熱／妄言／而走／水火",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "得卧",
+                "而熱",
+                "妄言",
+                "而走",
+                "水火"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第9欄",
+              "text": "而歌／上屋／疎者／是也／難經",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "而歌",
+                "上屋",
+                "疎者",
+                "是也",
+                "難經"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第10欄",
+              "text": "説／多怒別／肝等／解也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "説",
+                "多怒別",
+                "肝等",
+                "解也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點，第11欄",
+              "text": "而已／二病／病也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "而已",
+                "二病",
+                "病也"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "膠固在上者必先吐之在下者必先下之更用安神養血"
+            },
+            {
+              "text": "之藥兼施灸燔而愈者有之也然亦多有再作之患以難"
+            },
+            {
+              "text": "得根治也復此二證至神脫而目瞪如愚如癡者不治之"
+            },
+            {
+              "text": "候也其狂病者以因火熱鬱結而生故如熱病邪鬱及產"
+            },
+            {
+              "text": "後血熱衝逆亦間有發此證及飲酒醉中如狂者名曰酒"
+            },
+            {
+              "text": "悻也此皆一時之狂而非宿因之病也故勢解則其證自"
+            },
+            {
+              "text": "止也又本邦近世稱癇證者諸氣鬱滯驚悸怔忡痰"
+            },
+            {
+              "text": "飲等之病其證稍似癲狂者彙謂之癇證名儀甚不穩當"
+            },
+            {
+              "text": "也固誣名耳苟其證相類者而非有宿因者若彙謂之心"
+            },
+            {
+              "text": "疾及氣病則可也"
+            },
+            {
+              "text": "應用方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第1欄",
+              "text": "在上者／吐之／在下者／下之",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "在上者",
+                "吐之",
+                "在下者",
+                "下之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第2欄",
+              "text": "之藥／而／愈者／也／之患",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "之藥",
+                "而",
+                "愈者",
+                "也",
+                "之患"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第3欄",
+              "text": "根治也／二證／目瞪／癡者",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "根治也",
+                "二證",
+                "目瞪",
+                "癡者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第4欄",
+              "text": "候也／病者／而生／邪鬱",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "候也",
+                "病者",
+                "而生",
+                "邪鬱"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第5欄",
+              "text": "衝逆／此證／狂者",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "衝逆",
+                "此證",
+                "狂者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第6欄",
+              "text": "悻也／之狂而／之病也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "悻也",
+                "之狂而",
+                "之病也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第7欄",
+              "text": "止也／近世／癇證者／鬱滯／怔忡",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "止也",
+                "近世",
+                "癇證者",
+                "鬱滯",
+                "怔忡"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第8欄",
+              "text": "飲等之病／癲狂者／癇證",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "飲等之病",
+                "癲狂者",
+                "癇證"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第9欄",
+              "text": "也／耳／相類者／宿因者",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "耳",
+                "相類者",
+                "宿因者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第10欄",
+              "text": "疾／氣病／可也",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "疾",
+                "氣病",
+                "可也"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：第4欄「□至如」首字候審／當，字形偏審。第5欄「變證」後、第6欄「痰」旁有筆畫脫落或蟲孔。反透圓戳及欄底朱印不另作新印。 左面：第2欄「灸燔」後者近燔。第6欄「皆一」間稍淺且有孔蝕，內外部位可供回圖。第8、9欄「彙」為上部顯著的俗書，初讀彙。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "e8785b7953428d23c7d1a36e21cdb76b478511f3662d6b4e330644c67c3d7976",
+      "bytes": 299245,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "historical-nosology-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一三黃湯　一瓜蔕散　一大承氣湯"
+            },
+            {
+              "text": "一沈香天麻湯　一甘麥大棗湯"
+            },
+            {
+              "text": "一清神湯　一正心湯　一鉤藤湯"
+            },
+            {
+              "text": "一清心溫膽湯　一加味逍遙散　一灸法"
+            },
+            {
+              "text": "一抑肝散　一牛黃清心丸"
+            },
+            {
+              "text": "一柴胡加龍骨牡蠣湯　一辰砂散"
+            },
+            {
+              "text": "一茯苓圓　一加味蘇子降氣湯"
+            },
+            {
+              "text": "一鎭心丹　一指迷鐵落飲　一丹溪一方"
+            },
+            {
+              "text": "一朱砂安神圓　一防風通聖散"
+            },
+            {
+              "text": "一清心化痰湯　一明倪朱謨本草彙言一方"
+            },
+            {
+              "text": "右方中曾經治驗者于茲錄二三"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第1欄小字，依次",
+              "text": "得効／奇効／醫統",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "得効",
+                "奇効",
+                "醫統"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第2欄小字，依次",
+              "text": "綱目小兒門／金匱",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "綱目小兒門",
+                "金匱"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第3欄小字，依次",
+              "text": "統旨／醫統／錦囊",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "統旨",
+                "醫統",
+                "錦囊"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第4欄小字，依次",
+              "text": "醫鑑／壽□",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "醫鑑",
+                "壽□"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第5欄小字，依次",
+              "text": "保嬰撮要／局方本方",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "保嬰撮要",
+                "局方本方"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第6欄小字，依次",
+              "text": "傷寒類方／□沈",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "傷寒類方",
+                "□沈"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第7欄小字，依次",
+              "text": "本事／師傳",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "本事",
+                "師傳"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第8欄小字，依次",
+              "text": "三因／十便",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "三因",
+                "十便"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第9欄小字，依次",
+              "text": "拔萃／回春",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "拔萃",
+                "回春"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第10欄小字",
+              "text": "濟生",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "元羅天益衞生寶鑑沈香天麻湯條云治驚癇發搐痰"
+            },
+            {
+              "text": "涎壅塞目多白睛項背強急醒後復發數十日不差神思"
+            },
+            {
+              "text": "如癡脈沈弦而急多服鎭墜寒涼之劑復損其氣兼灸申"
+            },
+            {
+              "text": "脈照海各二七壯"
+            },
+            {
+              "text": "又明樓英醫學綱目云治癇瘈瘲筋攣"
+            },
+            {
+              "text": "沈香天麻湯方"
+            },
+            {
+              "text": "沈香　益智　川烏頭　天麻　防風　半夏"
+            },
+            {
+              "text": "附子　羌活　獨活　炙甘草　當歸"
+            },
+            {
+              "text": "□蚕"
+            },
+            {
+              "text": "右十二味水煎服"
+            },
+            {
+              "text": "金張元素云經云恐則氣下精怯而上焦閉以羌活獨"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄小字，川烏頭下",
+              "text": "各二分",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第8欄小字，依次",
+              "text": "各三分／五分／四分",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "各三分",
+                "五分",
+                "四分"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄小字",
+              "text": "各一分半",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第1欄",
+              "text": "天益／寶鑑／湯條／條云／發搐",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "天益",
+                "寶鑑",
+                "湯條",
+                "條云",
+                "發搐"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第2欄",
+              "text": "壅塞／白睛／強急／復發／不差",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "壅塞",
+                "白睛",
+                "強急",
+                "復發",
+                "不差"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第3欄",
+              "text": "如癡／而急／之劑／其氣",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "如癡",
+                "而急",
+                "之劑",
+                "其氣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第4欄",
+              "text": "照海／七壯",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "照海",
+                "七壯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第5欄",
+              "text": "樓英／綱目云／筋攣",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "樓英",
+                "綱目云",
+                "筋攣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第10欄",
+              "text": "十二味／煎服",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "十二味",
+                "煎服"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點，第11欄",
+              "text": "元素云／氣下／焦閉",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "元素云",
+                "氣下",
+                "焦閉"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 11,
+          "context": "右頁第4欄小字，依次",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": 11,
+          "context": "右頁第6欄小字，依次",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "一",
+          "candidates": [],
+          "note": "方名每一處在本欄以「一」起行，初錄用全形空格表示同欄區隔。小字方源另列。第4欄下端壽後有多筆墨疊，字數未定。第5、6欄蟲孔靠近原來筆畫，龍、牛仍可讀。第10欄倪、彙有待再核。反透文字顏色淺且反向。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "炙",
+          "candidates": [],
+          "note": "開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "炙甘草",
+          "candidates": [],
+          "note": "開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。"
+        }
+      ],
+      "observations": "右面：方名每一處在本欄以「一」起行，初錄用全形空格表示同欄區隔。小字方源另列。第4欄下端壽後有多筆墨疊，字數未定。第5、6欄蟲孔靠近原來筆畫，龍、牛仍可讀。第10欄倪、彙有待再核。反透文字顏色淺且反向。 左面：開頭元為朝代標記。第5欄瘈瘲處字形有省筆。第8欄「炙」與上下分開不大，照疑形連入「炙甘草」。第9欄二字候姜蚕／殭蚕，首字未定。第7欄藥名及小字二分有局部蟲蝕，欄間反透較重。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "f9c3af101b597a6c09d25ce81d70d1e9f5d39b113e448bdac5832ca0c6574430",
+      "bytes": 313988,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "historical-nosology-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "活苦温引氣上行又入太陽為引用故以為君天麻防"
+            },
+            {
+              "text": "風以散之當歸甘草辛甘溫以補氣血之不足又養胃"
+            },
+            {
+              "text": "氣故以為臣附子川烏益智大辛溫行陽退陰又治客"
+            },
+            {
+              "text": "寒傷胃腎主五液入脾為涎以生姜半夏燥濕化痰沈"
+            },
+            {
+              "text": "香辛溫躰重氣清去怯安神故以為使又"
+            },
+            {
+              "text": "吾朝中山老師解方意云古人所謂癇疾之原得之驚或"
+            },
+            {
+              "text": "在母腹之時或在有生之後必以驚恐而致疾故曰驚"
+            },
+            {
+              "text": "癇蓋恐則氣下驚則氣亂恐氣歸腎驚氣歸心併於心"
+            },
+            {
+              "text": "腎則肝脾獨虛肝虛則生風脾虛則生痰故風痰盛于"
+            },
+            {
+              "text": "肝則筋牽掣而令搐搦也風痰實于太陽經則目上視"
+            },
+            {
+              "text": "項背強直也今考此方沈痼之疾非附子烏頭不足以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右面第5、6欄",
+              "text": "見小片蟲缺及朱點",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "行其滯而其大勢之性又足以益火之原而消陰翳譬"
+            },
+            {
+              "text": "之太陽中天幽谷之翳障無不消滅此所以用附子川"
+            },
+            {
+              "text": "烏也防風羌活獨活可以泄在經之邪半夏天麻姜蚕"
+            },
+            {
+              "text": "可以豁在經之痰益智可以安神氣當歸可以調血脉"
+            },
+            {
+              "text": "沈香通天徹地可以開壅滯甘草益氣緩中可以和逆"
+            },
+            {
+              "text": "痰"
+            },
+            {
+              "text": "丹溪一方　治癇症用大蝙蝠一箇以硃砂三錢填入腹"
+            },
+            {
+              "text": "内以薪灰盛火炙令皮焦為度候冷為細末每一箇分"
+            },
+            {
+              "text": "作四服空心白湯下"
+            },
+            {
+              "text": "師傳治癇症上逆頭痛眩暈足冷者方"
+            },
+            {
+              "text": "即局方蘇子降氣湯去桂枝加枳實天麻南星茯苓羚"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "大勢",
+          "candidates": [],
+          "note": "第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "丹溪一方",
+          "candidates": [],
+          "note": "第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "方",
+          "candidates": [],
+          "note": "第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。"
+        }
+      ],
+      "observations": "右面：逐欄照錄。第五欄清下及第六欄「中山」後有紙面缺損，字形待校。朱筆讀點的逐符定位另待。 左面：第一欄「大勢」的勢有形近「熱」，列為待核。第七欄「丹溪一方」與後半文字隔一段空白。左端羚後換面，原字與下幅「方」照錄。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "e981e4fb0844bed633213e3b20cbd2227783a1314dd89ba9ee2d44955872fae7",
+      "bytes": 240819,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "historical-nosology-and-colophon",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "方"
+            },
+            {
+              "text": "蘇子陳皮唐厚朴前胡當歸半夏"
+            },
+            {
+              "text": "唐枳實天麻南星茯苓羚羊角"
+            },
+            {
+              "text": "鐡粉龍膽甘草"
+            },
+            {
+              "text": "右十四味生姜水煎"
+            },
+            {
+              "text": "弘化三丙午年秋七月　森　道謙源直方謹誌"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第2欄行內小字",
+              "text": "炒大／炒中／中／中／中",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "炒大",
+                "炒中",
+                "中",
+                "中",
+                "中"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第3欄行內小字",
+              "text": "中大／中小／中／中大／中",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "中大",
+                "中小",
+                "中",
+                "中大",
+                "中"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第4欄行內小字",
+              "text": "中／中大／中小／少",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "中",
+                "中大",
+                "中小",
+                "少"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左側上部細筆",
+              "text": "○□",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "左側上部細筆",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "本面僅靠左上微小筆註，主書面未見當面正文；字形待核。"
+        }
+      ],
+      "observations": "右面：三欄方箋大字與行內小字依印面分錄。末欄上部署弘化三丙午年秋七月（1846），下部署森與道謙源直方。左上緣裂口不及字。 左面：本面僅靠左上微小筆註，主書面未見當面正文；字形待核。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005029/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005029%2FRB00005029_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "5aaab1a5fddf62be3b708c23fb6b9583dc8072aeb418d86b8eacbf321f7e401c",
+      "bytes": 201446,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "後封下緣倒向細字",
+              "text": "□□",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "後封下緣倒向細字",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "單幅：原冊後封斑駁。下緣倒向墨痕多斷裂，字數約略，不視為另一段正文。"
+    }
+  ]
+}
